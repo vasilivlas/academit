@@ -1,4 +1,4 @@
-auto_testing
-wild_westing
-you_siply_the_besting
-disco_dancing
+autotesting
+wildwesting
+yousiplythebesting
+git config
