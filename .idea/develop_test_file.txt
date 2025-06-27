@@ -1,0 +1,4 @@
+autotesting
+wildwesting
+yousiplythebesting
+git config
